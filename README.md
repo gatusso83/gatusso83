@@ -5,7 +5,7 @@ I have 10 units left to complete the degree and hope to be done by the end of 20
 
 Current Units
 -------------
-- Functional and Reactive Programming ![alt text](./Scala.png)
+- Functional and Reactive Programming ![alt text](./Scala1.png)
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
