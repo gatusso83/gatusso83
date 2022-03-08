@@ -7,7 +7,12 @@ Current Units
 -------------
 - Functional and Reactive Programming ![alt text](./Scala1.png)
 - Database Management Systems ![alt text](./PostgreSQL.png)
-- Software Project Management
+- Software Project Management.
+
+Completed Units
+---------------
+| Introduciton to Programming and the UNIX Environment | Quantitatibe Skills With Applications | Introduction to Statistical Modelling | --------- | ------------- | --------------- | a | b | c | 
+
 
 Contact
 -------
