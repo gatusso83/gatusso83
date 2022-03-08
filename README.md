@@ -11,7 +11,7 @@ Current Units
 
 Completed Units
 ---------------
-| Introduciton to Programming and the UNIX Environment | Quantitatibe Skills With Applications | Introduction to Statistical Modelling | --------- | ------------- | --------------- | a | b | c | 
+| Introduction to Programming and the UNIX Environment | Quantitatibe Skills With Applications | Introduction to Statistical Modelling | --- | --- | --- | a | b | c | 
 
 
 Contact
