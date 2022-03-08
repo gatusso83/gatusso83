@@ -12,7 +12,7 @@ Current Units
 Completed Units
 ---------------
 
-| Introduction to Programming and the UNIX Environment ![alt text](./python.png) | Quantitative Skills With Applications | Introduction to Statistical Modelling | 
+| Introduction to Programming and the UNIX Environment ![alt text](./python.png) | Quantitative Skills With Applications | Introduction to Statistical Modelling ![alt text](./R.png) | 
 | :---: | :---: | :---: |
 | <b>Object Oriented Programming</b> | <b>Software Dev. Studio</b> | <b>Calculus and Linear Algebra</b> |
 | <b>Discrete Maths</b> | <b>Software Dev. Studio 2</b> | <b>Operating Systems</b> |
