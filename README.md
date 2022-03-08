@@ -6,7 +6,7 @@ I have 10 units left to complete the degree and hope to be done by the end of 20
 Current Units
 -------------
 - Functional and Reactive Programming ![alt text](./Scala1.png)
-- Database Management Systems ![alt text](./PostegreSQL.png)
+- Database Management Systems ![alt text](./PostgreSQL.png)
 - Software Project Management
 - 
 - 👀 I’m interested in ...
