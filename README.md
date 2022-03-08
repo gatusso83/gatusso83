@@ -12,7 +12,12 @@ Current Units
 Completed Units
 ---------------
 
-| Introduction to Programming and the UNIX Environment | Quantitatibe Skills With Applications | Introduction to Statistical Modelling | --- | --- | --- | a | b | c | 
+| Introduction to Programming and the UNIX Environment | Quantitatibe Skills With Applications | Introduction to Statistical Modelling | 
+| :---: | :---: | :---: |
+| <b>Object Oriented Programming</b> | <b>Software Dev. Studio</b> | <b>Calculus and Linear Algebra</b> |
+| <b>Discrete Maths</b> | <b>Software Dev. Studio 2</b> | <b>Operating Systems</b> |
+| <b>Data Structures and Algorithms</b> | <b>Statistical Modelling & Experimental Design</b> | <b>Parallel & Distributed Computing</b> |
+| <b>Web Programming</b> |
 
 
 Contact
