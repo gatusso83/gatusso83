@@ -14,10 +14,10 @@ Completed Units
 
 | Introduction to Programming and the UNIX Environment ![alt text](./python.png) | Quantitative Skills With Applications | Introduction to Statistical Modelling ![alt text](./R.png) | 
 | :---: | :---: | :---: |
-| <b>Object Oriented Programming</b> | <b>Software Dev. Studio</b> | <b>Calculus and Linear Algebra</b> |
-| <b>Discrete Maths</b> | <b>Software Dev. Studio 2</b> | <b>Operating Systems</b> |
-| <b>Data Structures and Algorithms</b> | <b>Statistical Modelling & Experimental Design</b> | <b>Parallel & Distributed Computing</b> |
-| <b>Web Programming</b> |
+| <b>Object Oriented Programming </b><img src="./java.png" width="30"> | <b>Software Dev. Studio </b> <img src="./processing.png" width="30"><img src="./java.png" width="30">| <b>Calculus and Linear Algebra</b> |
+| <b>Discrete Maths</b> | <b>Software Dev. Studio 2 </b><img src="./java.png" width="30"> | <b>Operating Systems</b><img src="./C.png" width="30"> |
+| <b>Data Structures and Algorithms</b><img src="./C++.png" width="30"> | <b>Statistical Modelling & Experimental Design<img src="./R.png" width="30"></b> | <b>Parallel & Distributed Computing</b><img src="./C.png" width="30"> |
+| <b>Web Programming</b><img src="./HTML.png" width="30"><img src="./CSS.png" width="30"><img src="./JS.png" width="30"><img src="./PHP.png" width="30"> |
 
 
 Contact
